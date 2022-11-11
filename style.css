@@ -1,0 +1,22 @@
+.body_background
+{
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width: 10px;
+    background-color: aliceblue;
+    border-style: ridge;
+}
+element.style
+{
+position: absolute;
+width: 1100px;
+height: 450px;
+left: 0px;
+top: 0px;
+cursor: default
+
+}
